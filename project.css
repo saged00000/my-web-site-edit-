@@ -1,0 +1,38 @@
+h1.test1{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px
+    font-weight:medium
+}
+
+p.test1{color: red;}
+
+p.test2{color:darkgreen}
+
+div.box {
+    background: aquamarine;
+    width: 200px;
+    padding: 20px;             
+    border: black 5px solid;
+    border-radius: 15px;     
+    color: blue;
+    text-align: center;
+}
+
+p.test3{
+    color:olivedrab;
+    line-height: 30px;  /*the space between all the texts*/
+}
+
+p.test4{
+    color:red;
+    text-align: center;  /*the text location*/
+    direction:rtl;
+}
+.photo1{
+    height: 200px;
+    width: 200px;
+    border: black 5px solid;
+    background-image: url("project/sans");
+    background-color: blue;
+}
